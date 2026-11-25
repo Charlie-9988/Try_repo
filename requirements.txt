@@ -1,2 +1,2 @@
-kurigram==2.1.35
+pyrofork==2.3.69
 pillow==13.0.0
