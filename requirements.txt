@@ -1,2 +1,2 @@
-kurigram==2.1.38
+kurigram==2.1.37
 pillow==13.0.0
